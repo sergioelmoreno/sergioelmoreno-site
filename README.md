@@ -30,19 +30,19 @@ $ npm start
 or
 
 ```console
-gulp server
+$ gulp server
 ```
 
 5. Build a `./dist` copy for production
 
 ```console
-npm run build
+$ npm run build
 ```
 
 _Preview with post or articles not yet published_
 
 ```console
-npm run build-preview
+$ npm run build-preview
 ```
 
 
