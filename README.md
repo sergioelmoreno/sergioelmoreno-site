@@ -1,13 +1,10 @@
 # sergioelmoreno-site  
 > v 0.1 (beta)
-
-## Static front-site landing page made with [Hugo](https://gohugo.io/).
-
 **WIP**
 
-#### INFO
+## Static front-site landing page made with [Victor Hugo](https://github.com/netlify/victor-hugo).
 
-- Custom Starter Kit based on [Victor Hugo](https://github.com/netlify/victor-hugo)  
+- Customized Starter Kit for [Hugo](https://gohugo.io/)  
 
 - Added `gulp-sass` and `gulp-sourcemaps` **[:fire: wip]**
 
